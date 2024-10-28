@@ -10,7 +10,7 @@ A short code snippet that can convert an image to a pencil sketch like image. An
 
 ## Results
 <div style="float:left">
-<div style="float:left"><img width="45%" src="https://github.com/buzzpranav/Image-to-Sketch/blob/master/input_img.png" />
-<img width="45%" src="https://github.com/buzzpranav/Image-to-Sketch/blob/master/output_img.png" /></div>
+<div style="float:left"><img width="45%" src="https://github.com/psnarayanan/Image-to-Sketch/blob/master/input_img.png" />
+<img width="45%" src="https://github.com/psnarayanan/Image-to-Sketch/blob/master/output_img.png" /></div>
 </div>
 <br /><br />
